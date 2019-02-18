@@ -8,7 +8,7 @@ But the demonstrations, at least, should be fairly approachable.
 Unfriendly Explanation
 ----
 
-Note: Download CIFAR100 from [here](https://www.cs.toronto.edu/~kriz/cifar.html) and unpack it to the present directory to actually run these things.
+Note: Download CIFAR100 from [here](https://www.cs.toronto.edu/~kriz/cifar.html) and unpack it to the present directory to actually run these things. You also need numpy, but you shouldn't need anything else.
 
 Neural nets are nonlinear iterated function systems by construction. I tend to believe that the progression of the weights in weight space is a slice of another nonlinear iterated function system, also by construction. So I would tend to believe that the overall landscape of the optimization is suffused with directions with positive Lyapunov exponent, because if it's a fractal and an attractor, one considers it a strange attractor and begins suspecting that the dynamical process that creates it is chaotic. But that induces anisotropies in the optimization surface.
 

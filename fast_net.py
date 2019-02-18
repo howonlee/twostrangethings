@@ -4,7 +4,6 @@ import pickle
 import numpy as np
 import numpy.random as npr
 import numpy.linalg as npl
-import matplotlib.pyplot as plt
 
 def act(net):
     return np.where(net > 0, net, net * 0.5)
