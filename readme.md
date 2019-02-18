@@ -1,9 +1,9 @@
 Two strange useless things to do with neural nets: a demonstration
 =====
 
-This is continuing on the work I did in the CSPAM thread ([first](https://github.com/howonlee/bobdobbshess), [second](https://github.com/howonlee/bobdobbsnewton))and you'd probably be best off asking question or making comments there, although I'll probably end up hanging in the HN thread for a while. If you need a really friendly explanation, you are better off asking me questions in those places. I have a general inability to give understandable explanations except in reply to specific people.
+This is continuing on the work I did in the CSPAM thread ([first](https://github.com/howonlee/bobdobbshess), [second](https://github.com/howonlee/bobdobbsnewton)) and you'd probably be best off asking question or making comments there, although I'll probably end up hanging in the HN thread for a while. If you need a really friendly explanation, you are better off asking me questions in those places. I have a general inability to give understandable explanations except in reply to specific people.
 
-But the demonstrations, at least, should be fairly approacheable.
+But the demonstrations, at least, should be fairly approachable.
 
 Unfriendly Explanation
 ----
